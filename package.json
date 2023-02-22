@@ -1,0 +1,26 @@
+{
+  "name": "new-Object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "less": "^4.1.3",
+    "jquery": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cctzW/new-Object.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cctzW/new-Object/issues"
+  },
+  "homepage": "https://github.com/cctzW/new-Object#readme"
+}
